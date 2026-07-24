@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Chicken",
+  "description": "High-octane restaurant system featuring live ordering, kitchen management, waiter panel, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
